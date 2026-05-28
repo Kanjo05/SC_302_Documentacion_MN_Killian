@@ -1,1 +1,4 @@
-# SC_302_Documentacion_MN_Killian
+# SC\_302\_Documentacion\_MN\_Killian
+
+Esta	es	mi	primera	práctica	con	GitHub y soy estudiante.
+
